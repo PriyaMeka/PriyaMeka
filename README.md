@@ -2,7 +2,7 @@
 - 👀 I’m working as Software Tester.
 - 🌱 I have experience in Test Automation.
 - 💞️ I’m looking to collaborate on projects with dynamic team.
-- 📫 You can reach me on +64279773944.
+- 📫 I can be reached on +64279773944.
 
 <!---
 PriyaMeka/PriyaMeka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
