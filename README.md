@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PriyaMeka
-- 👀 I’m interested in Software Testing.
-- 🌱 I’m currently learning Test Automation and c# programming languages.
+- 👀 I’m working as Software Tester.
+- 🌱 I’m currently learning Test Automation.
 - 💞️ I’m looking to collaborate on projects with dynamic team.
-- 📫 You can reach me on 0279773944.
+- 📫 You can reach me on +64279773944.
 
 <!---
 PriyaMeka/PriyaMeka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
